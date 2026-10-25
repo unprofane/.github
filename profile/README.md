@@ -18,7 +18,7 @@ curl https://api.unprofane.com/v1/check \
 }
 ```
 
-**[The Scunthorpe Test](https://github.com/unprofane/scunthorpe-test)**, the public dev split, 15,550 items, 2026-10-24. Trap FPR is the share of innocent items (Scunthorpe, cockatoo, breast cancer) a filter blocked.
+**[The Scunthorpe Test](https://github.com/unprofane/scunthorpe-test)**, the public dev split, 15,550 items, 2026-10-25. Trap FPR is the share of innocent items (Scunthorpe, cockatoo, breast cancer) a filter blocked.
 
 | System | F1 | Trap FPR |
 |---|---|---|
